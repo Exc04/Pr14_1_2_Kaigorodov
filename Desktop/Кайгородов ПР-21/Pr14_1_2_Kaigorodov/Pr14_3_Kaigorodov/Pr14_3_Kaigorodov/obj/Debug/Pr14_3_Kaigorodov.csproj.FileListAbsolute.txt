@@ -1,0 +1,11 @@
+C:\Users\exc\Desktop\Pr14_3_Kaigorodov\Pr14_3_Kaigorodov\bin\Debug\Pr14_3_Kaigorodov.exe.config
+C:\Users\exc\Desktop\Pr14_3_Kaigorodov\Pr14_3_Kaigorodov\bin\Debug\Pr14_3_Kaigorodov.exe
+C:\Users\exc\Desktop\Pr14_3_Kaigorodov\Pr14_3_Kaigorodov\bin\Debug\Pr14_3_Kaigorodov.pdb
+C:\Users\exc\Desktop\Pr14_3_Kaigorodov\Pr14_3_Kaigorodov\obj\Debug\Pr14_3_Kaigorodov.csproj.AssemblyReference.cache
+C:\Users\exc\Desktop\Pr14_3_Kaigorodov\Pr14_3_Kaigorodov\obj\Debug\Pr14_3_Kaigorodov.Form1.resources
+C:\Users\exc\Desktop\Pr14_3_Kaigorodov\Pr14_3_Kaigorodov\obj\Debug\Pr14_3_Kaigorodov.Properties.Resources.resources
+C:\Users\exc\Desktop\Pr14_3_Kaigorodov\Pr14_3_Kaigorodov\obj\Debug\Pr14_3_Kaigorodov.csproj.GenerateResource.cache
+C:\Users\exc\Desktop\Pr14_3_Kaigorodov\Pr14_3_Kaigorodov\obj\Debug\Pr14_3_Kaigorodov.csproj.CoreCompileInputs.cache
+C:\Users\exc\Desktop\Pr14_3_Kaigorodov\Pr14_3_Kaigorodov\obj\Debug\Pr14_3_Kaigorodov.exe
+C:\Users\exc\Desktop\Pr14_3_Kaigorodov\Pr14_3_Kaigorodov\obj\Debug\Pr14_3_Kaigorodov.pdb
+C:\Users\exc\Desktop\Pr14_3_Kaigorodov\Pr14_3_Kaigorodov\obj\Debug\Pr14_3_Kaigorodov.exe.config
