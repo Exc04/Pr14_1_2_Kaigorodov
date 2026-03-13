@@ -1,0 +1,7 @@
+C:\Users\305-8\source\repos\Pr14_1_Kaigorodov\bin\Debug\Pr14_1_Kaigorodov.exe.config
+C:\Users\305-8\source\repos\Pr14_1_Kaigorodov\bin\Debug\Pr14_1_Kaigorodov.exe
+C:\Users\305-8\source\repos\Pr14_1_Kaigorodov\bin\Debug\Pr14_1_Kaigorodov.pdb
+C:\Users\305-8\source\repos\Pr14_1_Kaigorodov\obj\Debug\Pr14_1_Kaigorodov.csproj.AssemblyReference.cache
+C:\Users\305-8\source\repos\Pr14_1_Kaigorodov\obj\Debug\Pr14_1_Kaigorodov.csproj.CoreCompileInputs.cache
+C:\Users\305-8\source\repos\Pr14_1_Kaigorodov\obj\Debug\Pr14_1_Kaigorodov.exe
+C:\Users\305-8\source\repos\Pr14_1_Kaigorodov\obj\Debug\Pr14_1_Kaigorodov.pdb

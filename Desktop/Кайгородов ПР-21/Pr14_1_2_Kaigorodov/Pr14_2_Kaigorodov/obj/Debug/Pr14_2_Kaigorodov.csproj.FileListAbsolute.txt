@@ -1,0 +1,10 @@
+C:\Users\305-8\source\repos\Pr14_2_Kaigorodov\bin\Debug\Pr14_2_Kaigorodov.exe.config
+C:\Users\305-8\source\repos\Pr14_2_Kaigorodov\bin\Debug\Pr14_2_Kaigorodov.exe
+C:\Users\305-8\source\repos\Pr14_2_Kaigorodov\bin\Debug\Pr14_2_Kaigorodov.pdb
+C:\Users\305-8\source\repos\Pr14_2_Kaigorodov\obj\Debug\Pr14_2_Kaigorodov.csproj.AssemblyReference.cache
+C:\Users\305-8\source\repos\Pr14_2_Kaigorodov\obj\Debug\Pr14_2_Kaigorodov.Form1.resources
+C:\Users\305-8\source\repos\Pr14_2_Kaigorodov\obj\Debug\Pr14_2_Kaigorodov.Properties.Resources.resources
+C:\Users\305-8\source\repos\Pr14_2_Kaigorodov\obj\Debug\Pr14_2_Kaigorodov.csproj.GenerateResource.cache
+C:\Users\305-8\source\repos\Pr14_2_Kaigorodov\obj\Debug\Pr14_2_Kaigorodov.csproj.CoreCompileInputs.cache
+C:\Users\305-8\source\repos\Pr14_2_Kaigorodov\obj\Debug\Pr14_2_Kaigorodov.exe
+C:\Users\305-8\source\repos\Pr14_2_Kaigorodov\obj\Debug\Pr14_2_Kaigorodov.pdb
